@@ -48,5 +48,3 @@ public abstract class BaseAnimator implements DisplayAnimator {
         return currentLine2;
     }
 }
-
-
